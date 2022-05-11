@@ -17,6 +17,13 @@ def letra():
     letra = random.choice(armas)
     return(letra)
 
+i = 0
+elegirarma(equipov)
+elegirarma(equipof)
+
+while i < 25:
+    ++i
+    
 
 
 
