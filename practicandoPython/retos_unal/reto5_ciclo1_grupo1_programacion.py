@@ -5,7 +5,6 @@
 
 #1.(vale 1) La función "tipodefigurita":
 
-from unittest import result
 import numpy as np
 
 def tipodefigurita(figuras):
